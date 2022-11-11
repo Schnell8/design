@@ -3,9 +3,22 @@ Title: Home
 Description: This is our index page.
 ---
 
-Home page
+Kort presentation om mig
 ==========================
 
-The source for this page is in `content/index.md`.
+Hej, mitt namn är Christopher Schnell. 
 
-This is a sample home page written in markdown with some frontmatter defined.
+Jag är 27 år gammal, född och uppvuxen i Ystad, Skåne, där jag fortfarande bor tillsammans med min sambo. 
+
+I hela mitt liv har jag sysslat med någon typ av sport och intresset för datorer har alltid funnits där. 
+
+Idag spelar jag handboll på elitnivå och tidigare jobbade jag under 6 år på skola. 
+
+Jag vantrivdes på jobbet och möjligheten att studera programmering dök upp. 
+
+Jag tog chansen och här är jag nu, supertaggad! Det var lite kort om mig.
+
+Ha det gott!
+
+<img class="img_me" src="assets/img/me.png" alt="bild på mig">
+[//]: # "tyvärr inte löst bildproblemet"

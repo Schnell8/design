@@ -1,8 +1,8 @@
 ---
-Logo: image/leaf_256x256.png
-Tagline: My portfolio.
+Logo: assets/img/tech_icon.png #ska inte vara såhär! (korrekt lösing är ---->    image/....)
+Tagline: Min portfolio
 Social:
-    - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
+    - title: Länk till mitt github repo
+      url: https://github.com/Schnell8
       icon: github
 ---
