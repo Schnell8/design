@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@300&display=swap');
+
+$font-color: #333;
+$font-alternative-color: #fff;
+$accent-color: #ee6c4d;
+$background-color: #f5e1d9ea;
+$background-alternative-color: #e0fbfc;
+$testcolor1: rgba(0, 255, 255, 0.968);
+$testcolor2: rgba(0, 255, 0, 0.868);
+
+
+$base-line-height: 1.4;
+$base-font-size: 1.1em;
+$magic-number: $base-line-height * $base-font-size;
+
+$font-fam-title: 'Inter', sans-serif;
+$font-fam-text: 'Poppins', sans-serif;

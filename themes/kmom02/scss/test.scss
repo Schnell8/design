@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+
+$old-fash-font: 'Times New Roman', Times, serif;
+$mod-font: 'Sono', sans-serif;
+$base-line-height: 1.4;
+$base-font-size: 2rem;
+
+@mixin line-height-and-font-size {
+    line-height: $base-line-height;
+    font-size: $base-font-size;
+}
+
+.old-fashioned {
+    @include line-height-and-font-size;
+    font-family: $old-fash-font;
+    font-style: italic;
+}
+
+.modern {
+    @include line-height-and-font-size;
+    font-family: $mod-font;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.worst-ever {
+    @include line-height-and-font-size;
+    line-height: 0.7;
+    background-color: $testcolor1;
+    color: $testcolor2;
+    letter-spacing: -4px;
+}

@@ -4,5 +4,8 @@ Tagline: Min portfolio
 Social:
     - title: Länk till mitt github repo
       url: https://github.com/Schnell8
-      icon: github
+      icon: fab fa-github
+    - title: Länk till sass-guide
+      url: https://sass-lang.com/guide
+      icon: fab fa-sass
 ---

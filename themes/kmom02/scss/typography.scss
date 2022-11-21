@@ -1,0 +1,38 @@
+html {
+    font-size: 100%;
+}
+
+p {
+    font-size: 1em;
+    margin-bottom: $magic-number;
+}
+
+body {
+    line-height: 1.4;
+}
+
+.main {
+    max-width: 67rem;
+    padding: 1.5rem;
+    margin: 0 auto;
+}
+
+@media (min-width: 64em) {
+    html {
+        font-size: 112.5%;
+    }
+}
+
+* {
+    color: $font-color;
+    font-family: $font-fam-text;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $font-fam-title;
+}
