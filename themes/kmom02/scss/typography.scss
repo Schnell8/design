@@ -9,6 +9,7 @@ p {
 
 body {
     line-height: 1.4;
+    background-color: $background-color;
 }
 
 .main {
@@ -21,6 +22,32 @@ body {
     html {
         font-size: 112.5%;
     }
+}
+
+.logo {
+    margin: 0 auto;
+    max-width: 67rem;
+    padding: 1.5rem;
+}
+
+.title {
+    margin: 0 auto;
+    max-width: 67rem;
+    padding: 1.5rem;
+}
+
+.nav {
+    margin: 0 auto;
+    max-width: 67rem;
+    padding: 1.5rem;
+}
+
+.footer {
+    margin: 0 auto;
+    max-width: 67rem;
+    padding: 1.5rem;
+    border-top: solid 1px;
+    border-color: $font-color;
 }
 
 * {

@@ -1,0 +1,103 @@
+.landingpage {
+    display: grid;
+    grid-template-columns: 3;
+    grid-template-rows: 100px 200px 200px 200px 100px;
+    margin: 0 auto;
+    max-width: 67rem;
+    gap: 1em 1em;
+}
+
+.technology-box {
+    border: 1px solid #ccc;
+    padding: 1em;
+}
+
+.technology-box:hover {
+    box-shadow: 0 0 15px 10px rgba(0, 0, 0, 0.2);
+}
+
+.tech-h1 {
+    text-align: center;
+    grid-column: 1/4;
+    overflow: hidden;
+    
+    img {
+        width: 100%;
+    }
+}
+
+.python {
+    grid-column: 1/4;
+}
+
+.javascript {
+    grid-column: 1/3;
+}
+
+.php {
+    grid-column: 3/4;
+}
+
+.sqlite {
+    grid-column: 1/2;
+}
+
+.css {
+    grid-column: 2/4;
+}
+
+.html {
+    grid-column: 1/3;
+}
+
+.git {
+    grid-column: 3/4;
+}
+
+@media (max-width: 767px) {
+    .landingpage {
+        grid-template-columns: auto;
+        grid-template-rows: auto;
+    }
+
+    .tech-h1 {
+        text-align: center;
+        grid-column: 1/2;
+        grid-row: 1/2;
+    }
+    
+    .python {
+        grid-column: 1/2;
+        grid-row: 2/3;
+    }
+    
+    .javascript {
+        grid-column: 1/2;
+        grid-row: 3/4;
+    }
+    
+    .php {
+        grid-column: 1/2;
+        grid-row: 4/5;
+    }
+    
+    .sqlite {
+        grid-column: 1/2;
+        grid-row: 5/6;
+    }
+    
+    .css {
+        grid-column: 1/2;
+        grid-row: 6/7;
+    }
+    
+    .html {
+        grid-column: 1/2;
+        grid-row: 7/8;
+    }
+    
+    .git {
+        grid-column: 1/2;
+        grid-row: 8/9;
+    }
+}

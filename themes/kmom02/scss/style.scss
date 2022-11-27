@@ -10,33 +10,5 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'code';
 @import 'test';
 @import 'images';
-
-.logo {
-    margin: 0 auto;
-    max-width: 67rem;
-    padding: 1.5rem;
-}
-
-.title {
-    margin: 0 auto;
-    max-width: 67rem;
-    padding: 1.5rem;
-}
-
-.nav {
-    margin: 0 auto;
-    max-width: 67rem;
-    padding: 1.5rem;
-}
-
-body {
-    background-color: $background-color;
-}
-
-.footer {
-    margin: 0 auto;
-    max-width: 67rem;
-    padding: 1.5rem;
-    border-top: solid 1px;
-    border-color: $font-color;
-}
+@import 'technologies';
+@import 'technology';
