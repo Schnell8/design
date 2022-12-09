@@ -1,0 +1,60 @@
+.landingpage {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 100px 100px 100px;
+    margin: 0 auto;
+    max-width: 67rem;
+    gap: 1em 1em;
+}
+
+.analysis-box {
+    border: 1px solid #e7e9eac2;
+    padding: 1em;
+    text-align: center;
+}
+
+.analysis-box:hover {
+    box-shadow: 0 0 15px 10px rgba(192, 192, 192, 0.2);
+}
+
+.analys-h1 {
+    text-align: center;
+    grid-column: 1/2;
+}
+
+.colors {
+    grid-column: 1/2;
+}
+
+.load {
+    grid-column: 1/2;
+}
+
+.design-principles {
+    grid-column: 1/2;
+}
+
+
+@media (max-width: 767px) {
+    .landingpage {
+        grid-template-columns: auto;
+        grid-template-rows: auto;
+    }
+
+    .analys-h1 {
+        text-align: center;
+        grid-column: 1/2;
+    }
+    
+    .colors {
+        grid-column: 1/2;
+    }
+    
+    .load {
+        grid-column: 1/2;
+    }
+    
+    .design-principles {
+        grid-column: 1/2;
+    }
+}

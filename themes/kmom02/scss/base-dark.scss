@@ -1,0 +1,29 @@
+body {
+    background-color: $background-color;
+    color: $font-color;
+}
+
+.nav a {
+    color: $font-color;
+}
+
+.footer {
+    background-color: #402800;
+    border-color: #e7e9eac2;
+}
+
+.technology-box {
+    border: 1px solid #e7e9eac2;
+}
+
+.technology-box:hover {
+    box-shadow: 0 0 15px 10px rgba(192, 192, 192, 0.2);
+}
+
+.techtexttitle {
+    border-bottom: 1px solid #e7e9eac2;
+}
+
+.aside {
+    border: 1px solid #e7e9eac2;
+}

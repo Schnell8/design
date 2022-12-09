@@ -7,8 +7,9 @@
 }
 
 .aside {
+    background-color: #918383;
     grid-column: 1/2;
-    border: 1px solid #ccc;
+    border: 1px solid #474c4f;
     padding: 1em;
 
     li {
@@ -18,7 +19,7 @@
 
 .techtexttitle {
     grid-column: 2/3;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #474c4f;
 }
 
 .techtext {
