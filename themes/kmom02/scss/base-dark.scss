@@ -3,17 +3,22 @@ body {
     color: $font-color;
 }
 
+.main {
+    background-color: $background-color;
+}
+
 .nav a {
     color: $font-color;
 }
 
 .footer {
     background-color: #402800;
-    border-color: #e7e9eac2;
+    border-color: $font-color;
 }
 
 .technology-box {
-    border: 1px solid #e7e9eac2;
+    background-color: #0c1a28;
+    border: 1px solid $font-color;
 }
 
 .technology-box:hover {
@@ -21,9 +26,10 @@ body {
 }
 
 .techtexttitle {
-    border-bottom: 1px solid #e7e9eac2;
+    border-bottom: 1px solid $font-color;
 }
 
 .aside {
-    border: 1px solid #e7e9eac2;
+    border: 1px solid $font-color;
+    background-color: #0c1a28;
 }
