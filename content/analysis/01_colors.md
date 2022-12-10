@@ -41,7 +41,7 @@ NETFLIX
 
 Färgerna i paletten med start från vänster: #e50914, #FFF, #AAAAAA, #141414, #000
 
-Vi tittar på ett monokromatiskt färgschema med olika mättnad i färgen. Vi kan se vitt, svart och nyanser av grått. Netflix klassiska "röda" färg finns även med som en accentfärg, den dyker upp lite varstans på webbplatsen. Typsnittet som används är "Netflix-Sans", det är sans-serif. Större företag använder sig ofta av ett eget tysnitt. Webbplatsen motsvarar den profil man vill ha. Med sina mörka färger och inslag av rött ges känslan av att du befinner dig i en biosalong. Då passar inget så bra som att se en film eller serie, en svårslagen känsla.
+Vi tittar på ett akromatiskt färgschema. Vi kan se vitt, svart och nyanser av grått. Netflix klassiska "röda" färg finns även med som en accentfärg, den dyker upp lite varstans på webbplatsen. Typsnittet som används är "Netflix-Sans", det är sans-serif. Större företag använder sig ofta av ett eget tysnitt. Webbplatsen motsvarar den profil man vill ha. Med sina mörka färger och inslag av rött ges känslan av att du befinner dig i en biosalong. Då passar inget så bra som att se en film eller serie, en svårslagen känsla.
 
 ZALANDO
 <img class="color-img" src="../assets/img/zalando.png" alt="zalando">
