@@ -1,5 +1,5 @@
 ---
-Logo: assets/img/tech_icon.png #ska inte vara såhär! (korrekt lösing är ---->    image/...)
+Logo: image/tech_icon.png
 Tagline: Min portfolio
 Social:
     - title: Länk till mitt github repo

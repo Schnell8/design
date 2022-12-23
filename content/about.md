@@ -1,7 +1,6 @@
 ---
 Title: About
 Description: Documentation about what techniques i use on this page
-# hidden: true
 ---
 
 Om denna sidan

@@ -1,7 +1,6 @@
 ---
 Title: Test
 Description: test page
-# hidden: true
 ---
 
 Test
