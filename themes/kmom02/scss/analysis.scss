@@ -8,10 +8,14 @@
 }
 
 .analysis-box {
-    background-color: #918383;
+    background-color: #deb2b1;
     border: 1px solid #474c4f;
     padding: 1em;
     text-align: center;
+}
+
+.analysis-box a {
+    text-decoration: none;
 }
 
 .analysis-box:hover {

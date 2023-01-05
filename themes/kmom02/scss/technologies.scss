@@ -9,8 +9,13 @@
 
 .technology-box {
     border: 1px solid $font-color;
-    background-color: #918383;
+    background-color: #deb2b1;
     padding: 1em;
+    text-decoration: none;
+}
+
+.technology-box a {
+    text-decoration: none;
 }
 
 .technology-box:hover {

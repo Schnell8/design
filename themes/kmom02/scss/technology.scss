@@ -7,10 +7,14 @@
 }
 
 .aside {
-    background-color: #918383;
+    background-color: #deb2b1;
     grid-column: 1/2;
     border: 1px solid $font-color;
     padding: 1em;
+
+    a {
+        text-decoration: none;
+    }
 
     li {
         padding: 0.3em;

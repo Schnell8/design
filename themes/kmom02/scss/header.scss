@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logo {
+    margin: 0;
+}
+
+.header-logo {
+    width: 100px;
+    margin: 0;
+}
+
+.title {
+    text-decoration: none;
+    font-size: 1.7em;
+}
+
+.title a {
+    text-decoration: none;
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+.nav ul {
+    border: 5px solid #748591;
+}
+
+.nav a:hover {
+    background-color: #deb2b1;
+}
